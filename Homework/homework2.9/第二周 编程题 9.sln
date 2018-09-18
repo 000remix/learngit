@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第二周 编程题 9", "第二周 编程题 9\第二周 编程题 9.csproj", "{37E04687-E01F-4295-8221-AD6E52739171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E04687-E01F-4295-8221-AD6E52739171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E04687-E01F-4295-8221-AD6E52739171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E04687-E01F-4295-8221-AD6E52739171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E04687-E01F-4295-8221-AD6E52739171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04259D04-4A91-4E0F-B3F8-F71F8361AB35}
+	EndGlobalSection
+EndGlobal
